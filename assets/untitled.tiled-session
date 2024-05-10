@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmj",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#Urban-city": {
+            "scaleInEditor": 1
+        },
+        "untitled.tmj": {
+            "scale": 1.4193,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 220.53124779821036,
+                "y": 149.0171211160431
+            }
+        },
+        "untitled.tmj#Rougue-city": {
+            "scaleInDock": 1.0255
+        },
+        "untitled.tmj#Urban-city": {
+            "scaleInDock": 1
+        },
+        "untitled.tmj#monsters-items": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/Users/ant/Desktop/gallery-shooter/assets",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 25,
+    "openFiles": [
+        "untitled.tmj"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "untitled.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
