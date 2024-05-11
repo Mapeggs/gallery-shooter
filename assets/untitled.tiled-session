@@ -3,13 +3,41 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "untitled.tmj",
+    "activeFile": "generalShooterMap.json",
     "expandedProjectPaths": [
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "#Urban-city": {
             "scaleInEditor": 1
+        },
+        "/Users/ant/Desktop/TopDownWorld/assets/TinyTownMap.json": {
+            "scale": 3.49,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 80.22922636103152,
+                "y": 80.37249283667622
+            }
+        },
+        "/Users/ant/Desktop/TopDownWorld/assets/TinyTownMap.json#tiny-town-packed": {
+            "scaleInDock": 1
+        },
+        "generalShooterMap.json": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 200,
+                "y": 160.33333333333331
+            }
+        },
+        "generalShooterMap.json#Rougue-city": {
+            "scaleInDock": 1
+        },
+        "generalShooterMap.json#Urban-city": {
+            "scaleInDock": 1
+        },
+        "generalShooterMap.json#monsters-items": {
+            "scaleInDock": 1
         },
         "untitled.tmj": {
             "scale": 1.4193,
@@ -35,10 +63,12 @@
     "map.tileWidth": 16,
     "map.width": 25,
     "openFiles": [
-        "untitled.tmj"
+        "generalShooterMap.json"
     ],
     "project": "untitled.tiled-project",
     "recentFiles": [
+        "generalShooterMap.json",
+        "/Users/ant/Desktop/TopDownWorld/assets/TinyTownMap.json",
         "untitled.tmj"
     ],
     "tileset.embedInMap": true,
