@@ -29,6 +29,7 @@ class GeneralShooter extends Phaser.Scene {
         this.CitybackgroundLayer = this.map.createLayer("City-background", this.tileset, 0, 0);
         this.peoplemonsteroutsideLayer = this.map.createLayer("people-monster-outside", this.tileset, 0, 0);
         this.decorationLayer = this.map.createLayer("decoration", this.tileset, 0, 0);
+        this.UXLayer = this.map.createLayer("UX-scoreboard", this.tileset, 0, 0);
 
 
         this.CitybackgroundLayer.setScale(4.0);
